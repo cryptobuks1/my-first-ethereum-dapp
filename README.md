@@ -102,3 +102,5 @@ Polls contract deployed to: 0x5FbDB2315678afecb367f032d93F642f64180aa3
 This script also saves the contract address and ABI in
 `frontend/src/Polls.json`, so that the frontend app knows how to connect to the
 deployed contract.
+
+https://www.youtube.com/watch?v=2KGwgyZ4KhY
